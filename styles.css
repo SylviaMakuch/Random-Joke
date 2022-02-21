@@ -1,11 +1,8 @@
 #div1 {
   text-align: center;
   font-family: "Rock Salt", cursive;
-  font-size: 1.5em;
+  font-size: 2em;
   color: rgb(255, 255, 255);
-}
-h1{
-  text-shadow: -2px 4px lightgreen;
 }
 ul {
   font-size: 1em;
@@ -36,7 +33,7 @@ body {
 
 #clickMe:hover {
   background-color: #3cdada;
-  box-shadow:0px 7px lightgreen;
+  box-shadow:0px 7px rgb(250, 255, 250);
 }
 
 #clickMe:active {
@@ -61,7 +58,7 @@ body {
 }
 #reset:hover {
   background-color: #3cdada;
-  box-shadow:0px 7px lightgreen;
+  box-shadow:0px 7px rgb(250, 255, 250);
  
 }
 #reset:active {
@@ -71,11 +68,12 @@ body {
 }
 
 ul{
-  font-family: 'Caveat', cursive;
-  font-size: 1.5em;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 1.4em;
   display: flex;
   flex-direction: column-reverse;
   align-items: center;
+  color:#ff7f7f;
   }
 li{
   display: flex;
